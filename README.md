@@ -48,3 +48,4 @@ Whether I'm boosting hotel bookings by 25% or optimizing marketing ROI, I love s
 When I'm not deep in datasets, you might catch me commentating on women's soccer or brainstorming the next big marketing strategy for a music festival.
 Want to chat about how we can use data to shake things up in your industry? Let's grab a virtual coffee and geek out over some analytics!
 >>>>>>> ebb53a07064c304f28e280bf46c3230acc5c9f7f
+# Akshita_
