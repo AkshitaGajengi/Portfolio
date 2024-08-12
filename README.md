@@ -49,3 +49,4 @@ When I'm not deep in datasets, you might catch me commentating on women's soccer
 Want to chat about how we can use data to shake things up in your industry? Let's grab a virtual coffee and geek out over some analytics!
 >>>>>>> ebb53a07064c304f28e280bf46c3230acc5c9f7f
 # Akshita_
+# Portfolio
