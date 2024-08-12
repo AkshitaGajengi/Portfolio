@@ -86,13 +86,13 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Marketing Strategist",
-    company: "Kreative Keeda Entertainment",
-    location: "Mumbai",
-    description:
-      "Boosted event attendance by 30% through data-driven marketing strategies and SEO optimization. Managed social media for top musical acts, increasing follower engagement by 40% and leveraging analytics for targeted campaign improvements",
-    icon: React.createElement(LuGraduationCap),
-    date: "06/2021 - 12/2021",
+    title: "Graduate Teaching Assistant",
+    company: "D'Amore-McKim School of Business at Northeastern University",
+    location: "Bostan,MA",
+    description: `Instructed and supported students in MKTG6234 Marketing Analytics, focusing on data analysis and case study interpretation using Enginius software.
+`,
+    icon: React.createElement(CgWorkAlt),
+    date: "05/2024 - *",
   },
   {
     title: "Business Analyst",
@@ -104,13 +104,13 @@ export const experiencesData = [
     date: "08/2022 - 06/2023",
   },
   {
-    title: "Graduate Teaching Assistant",
-    company: "D'Amore-McKim School of Business at Northeastern University",
-    location: "Bostan,MA",
-    description: `Instructed and supported students in MKTG6234 Marketing Analytics, focusing on data analysis and case study interpretation using Enginius software.
-`,
-    icon: React.createElement(CgWorkAlt),
-    date: "05/2024 - *",
+    title: "Marketing Strategist",
+    company: "Kreative Keeda Entertainment",
+    location: "Mumbai",
+    description:
+      "Boosted event attendance by 30% through data-driven marketing strategies and SEO optimization. Managed social media for top musical acts, increasing follower engagement by 40% and leveraging analytics for targeted campaign improvements",
+    icon: React.createElement(LuGraduationCap),
+    date: "06/2021 - 12/2021",
   }
 ] as const;
 
