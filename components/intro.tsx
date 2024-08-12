@@ -36,8 +36,8 @@ export default function Intro() {
             <Image
               // onMouseEnter={heartEnter}
               // onMouseLeave={makeDefault}
-              src="/Jash.jpg"
-              alt="Jash portrait"
+              src="/Akshita.jpg"
+              alt="Akshita portrait"
               width="192"
               height="192"
               quality="95"
@@ -61,18 +61,17 @@ export default function Intro() {
           </motion.span>
         </div>
       </div>
-
       <motion.h1
-        className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
-        initial={{ opacity: 0, y: 100 }}
-        animate={{ opacity: 1, y: 0 }}
-      >
-        <span className="font-bold">Hello, I'm Jash.</span> I'm a{" "}
-        <span className="font-bold">Full-stack developer</span> with{" "}
-        <span className="font-bold">1+ year</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. I love{" "}
-        <span className="underline">React (Next.js)</span>.
-      </motion.h1>
+  className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
+  initial={{ opacity: 0, y: 100 }}
+  animate={{ opacity: 1, y: 0 }}
+>
+  <span className="font-bold">Hello, I'm Akshita Gajengi.</span> I'm a{" "}
+  <span className="font-bold">Business Analyst</span>. I enjoy building{" "}
+  <span className="italic">various interactive dashboards</span>. I love to
+  work with{" "}
+  <span className="underline">business intelligence tools</span>.
+</motion.h1>
 
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-6 px-8 text-lg font-medium"
@@ -84,7 +83,7 @@ export default function Intro() {
       >
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com/JashAgrawal"
+          href="https://github.com/akshita0810"
           target="_blank"
         >
           <FaGithubSquare />
@@ -103,7 +102,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Jash-Agrawal.pdf"
+          href="/aks-resume.pdf"
           target="_blank"
           download
         >
@@ -113,7 +112,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/agrawaljash/"
+          href="https://www.linkedin.com/in/akshitagajengi/"
           target="_blank"
         >
           <BsLinkedin />

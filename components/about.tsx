@@ -17,46 +17,41 @@ export default function About() {
       transition={{ delay: 0.175 }}
       id="about"
     >
-      <SectionHeading>About me</SectionHeading>
+      <SectionHeading>About Me</SectionHeading>
 
       <p className="mb-3">
-        Hey there, I'm Jash Agrawal, your friendly neighborhood{" "}
+        Hey there, I'm Akshita Gajengi. Numbers tell stories, and I'm here to
+        translate them. I'm passionate about
         <span className="font-medium italic underline">
-          Full Stack Developer
-        </span>
-        . I'm passionate about
-        <span className="font-medium italic">
           {" "}
-          JavaScript, React, Redux, NodeJs{" "}
-          <span className="font-normal">and</span> SQL
+          SQL, Python, Power BI, and Tableau
         </span>
-        , and I've got a <span className="font-medium">Bachelor's</span> in{" "}
-        <span className="font-medium">Computer Engineering</span> from the{" "}
-        <span className="font-medium">University Of Mumbai</span> to back it up!
+        , and I'm currently pursuing a
+        <span className="font-medium"> Master's</span> in
+        <span className="font-medium"> Business Analytics</span> at
+        <span className="font-medium"> Northeastern University</span> to back
+        it up!
       </p>
       <p className="mb-3">
-        I <span className="underline italic">thrive</span> on{" "}
-        <span className="italic">cracking codes</span> and solving problems with
-        a smile. Currently, I'm cooking up something special – an app that'll
-        revolutionize how businesses and customers interact. Imagine businesses
-        listing their stores on our platform, turning our app into their own
-        e-commerce playground.{" "}
-        <span className="italic font-medium">Shopping</span>,{" "}
-        <span className="italic font-medium">booking</span>, and{" "}
-        <span className="italic font-medium">learning</span>, all in one spot –
-        that's convenience at its finest!
+        Whether boosting hotel bookings by 25% or optimizing marketing ROI, I
+        love seeing how data can make a real-world impact. From crunching
+        numbers in SQL to crafting eye-catching visualizations in Power BI, I'm
+        all about making sense of the data puzzle.
       </p>
       <p className="mb-3">
-        When I'm not glued to my screen, you'll find me{" "}
-        <span className="italic">kicking a ball</span>,{" "}
-        <span className="italic">hitting the gym</span>, or{" "}
-        <span className="italic">diving into some serious gaming</span>.{" "}
-        <span className="italic">Work hard, play hard</span> – that's my motto!
+        When I'm not deep in datasets, you might catch me
+        <span className="italic"> commentating on women's soccer</span> or
+        <span className="italic">
+          {" "}
+          brainstorming the next big marketing strategy for a music festival
+        </span>
+        .
       </p>
       <p>
-        Ready to join forces and bring some digital dreams to life? <br />
+        Want to chat about how we can use data to shake things up in your
+        industry? <br />
         <a href="#contact" className="underline italic">
-          Let's chat and sprinkle some magic into the digital world!{" "}
+          Let's grab a virtual coffee and geek out over some analytics!
         </a>
       </p>
     </motion.section>

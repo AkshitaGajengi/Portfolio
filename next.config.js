@@ -4,45 +4,39 @@ const nextConfig = {
       return [
         {
           source:"/linkedIn",
-          destination:'https://www.linkedin.com/in/agrawaljash/',
+          destination:'https://www.linkedin.com/in/akshitagajengi/',
           permanent: true
         },
         {
           source:"/github",
-          destination:'https://github.com/JashAgrawal',
+          destination:'https://github.com/akshita0810/',
           permanent: true
         },
         {
           source:"/resume",
-          destination:'https://drive.google.com/file/d/1NLJ-RXEM3u-oVF-o4wlwehA8pBs6tb9K/view?usp=sharing',
+          destination:'https://drive.google.com/file/d/1RbwXmad6KOvYnbz2wJANbt2ts7Wtv8eD/view?usp=sharing /',
           permanent: true
         },
         {
-          source:"/autobackend",
-          destination:'https://autobackend.vercel.app/',
+          source:"/The-Impact-of-Aca-on-Health-Insurance-Coverage",
+          destination:'https://github.com/akshita0810/-The-Impact-of-Affordable-Care-Act-on-Health-Insurance-Coverage-in-USA/',
           permanent: true
         },
         {
-          source:"/cjflixx",
-          destination:'https://cjflixx.vercel.app/',
+          source:"/Netflix-in-the-Indian-OTT-Market",
+          destination:'https://github.com/akshita0810/Netflix-in-the-Indian-OTT-Market/',
           permanent: true
         },
         {
-          source:"/vangaurd-vogue",
-          destination:'https://vangaurd-vogue.vercel.app/',
+          source:"/Statistical-Exploration-of-the-NBA",
+          destination:'https://github.com/akshita0810/Statistical-Exploration-of-the-NBA/',
           permanent: true
         },
         {
-          source:"/ielts-wizardz",
-          destination:'https://www.ieltswizardz.com/',
+          source:"/Crude-oil-vs-Airfare-price",
+          destination:'https://github.com/akshita0810/Correlation-Analysis-of-Airfare-Price-Dynamics-in-Relation-to-Crude-Oil-Price-Fluctuations/',
           permanent: true
-        },
-        {
-          source:"/sp-mills",
-          destination:'https://suryaprakashsilkmills.com/',
-          permanent: true
-        },
-
+        }
       ]
   },
   images: {
